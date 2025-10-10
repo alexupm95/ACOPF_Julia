@@ -1,4 +1,4 @@
-# DCOPF_Julia
+# ACOPF_Julia
 This code solves the AC Optimal Power Flow.
 
 To run the code and change the input parameters, use the file "main.jl"

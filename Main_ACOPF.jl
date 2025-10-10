@@ -22,13 +22,10 @@ Phase shift of transformers must be in degrees in the input file
 using LinearAlgebra, SparseArrays
 
 # Packages related to treatement of data
-using Dates, NumericIO, DataFrames, Printf, CSV, DataStructures
+using DataFrames, Printf, CSV, DataStructures
 
 # Packages related to the optimization
 using JuMP, Ipopt, AmplNLWriter, Couenne_jll
-
-# Packages for plotting
-using Plots, LaTeXStrings, Measures
 
 #---------------------------------
 # INCLUDE AUXILIAR FUNCTION FILES
@@ -215,3 +212,4 @@ else
     JuMP.@warn "Optmization process failed. No feasible solution found."
 end
 println("--------------------------------------------------------------------------------------------------------------------------------------")
+

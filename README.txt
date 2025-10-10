@@ -1,1 +1,0 @@
-This code solves the AC Optimal Power Flow.

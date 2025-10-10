@@ -1,0 +1,3 @@
+Data from the paper:
+
+A. J. Conejo, E. Castillo, R. Minguez and F. Milano, "Locational marginal price sensitivities," in IEEE Transactions on Power Systems, vol. 20, no. 4, pp. 2026-2033, Nov. 2005, doi: 10.1109/TPWRS.2005.857918. keywords: {Load flow;Voltage;Power demand;Reactive power;Power generation;Mathematics;ISO standards;Computer science;Statistics;Upper bound;Locational marginal prices;optimal power flow;sensitivities}, 

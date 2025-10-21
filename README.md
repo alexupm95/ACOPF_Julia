@@ -1,7 +1,7 @@
 # ACOPF_Julia
 This code solves the AC Optimal Power Flow.
 
-To run the code and change the input parameters, use the file "main.jl"
+To run the code and change the input parameters, use the file "Main_ACOPF.jl"
 
 The code stores Input Data in DataFrames. Some of the Output Data is also stored in DataFrames.
 
